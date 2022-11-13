@@ -1,0 +1,4 @@
+/Volumes/External/apps/CLion/ch-0/222.4345.21/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Volumes/External/apps/CLion/ch-0/222.4345.21/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/nebuladev/CLionProjects/Gem -B /Users/nebuladev/CLionProjects/Gem/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/nebuladev/CLionProjects/Gem/cmake-build-debug

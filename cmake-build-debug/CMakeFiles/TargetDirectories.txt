@@ -1,0 +1,3 @@
+/Users/nebuladev/CLionProjects/Gem/cmake-build-debug/CMakeFiles/Gem.dir
+/Users/nebuladev/CLionProjects/Gem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nebuladev/CLionProjects/Gem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
